@@ -1,4 +1,4 @@
 
 # Pandas exercises
-
-# solutions for all exercises: [solutions](Combined.md)
+# Wiktor and Rodion 2B
+ solutions for all exercises: [solutions](Combined.md)
